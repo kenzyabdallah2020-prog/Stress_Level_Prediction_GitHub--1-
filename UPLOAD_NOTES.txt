@@ -1,0 +1,13 @@
+Files included for GitHub upload
+
+- README.md: project overview and run instructions.
+- student_wellbeing_model.py: original uploaded training and evaluation script; content unchanged.
+- app.py: original uploaded Flask application script; content unchanged.
+- stress_level_prediction.pdf: original uploaded PDF; content unchanged.
+
+Important: The following required files were not included among the provided files:
+- student_wellbeing.csv (dataset expected by student_wellbeing_model.py)
+- rf_model.pkl and encoder.pkl (model artifacts expected by app.py)
+- templates/index.html and templates/result.html (HTML templates expected by app.py)
+
+The project may not run end-to-end until these dependencies are added. This package does not modify the original uploaded files.
